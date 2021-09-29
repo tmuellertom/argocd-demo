@@ -15,6 +15,6 @@ service:
   Port: "80"
 
 configmap:
-  data: "version 1.17.0"
+  data: "version: 1.17.0"
 
 
