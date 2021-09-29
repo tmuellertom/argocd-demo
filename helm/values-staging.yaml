@@ -12,4 +12,4 @@ resources:
     memory: "256Mi"
 
 configmap:
-  data: "version 1.18.0"
+  data: "version: 1.18.0"
