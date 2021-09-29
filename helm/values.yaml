@@ -14,8 +14,8 @@ resources:
     memory: "256Mi"
 
 service:
-  Port: "8111"
-  Type: "ClusterIp"
+  port: "8111"
+  type: "ClusterIp"
 
 configmap:
   data: "version alpine"
